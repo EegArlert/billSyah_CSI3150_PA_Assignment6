@@ -50,20 +50,20 @@ After implementing this project, you will have an understanding of:
 
 ### Directory Structure
 
-    - The application is organize into the following directory structure:
+ - The application is organize into the following directory structure:
 
-        ```
-        demo-quizz-app/
-        |--- index.html
-        |--- css/
-            |--- styles.css
-        |--- js/
-            |--- questions.js
-            |--- quizApp.js
-        |--- .gitignore
-        |--- README.md
+    ```
+    demo-quizz-app/
+    |--- index.html
+    |--- css/
+        |--- styles.css
+    |--- js/
+        |--- questions.js
+        |--- quizApp.js
+    |--- .gitignore
+    |--- README.md
 
-        ```
+    ```
         
 
 ### Directory Setup
