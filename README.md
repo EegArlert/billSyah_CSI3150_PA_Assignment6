@@ -195,4 +195,31 @@ After implementing this project, you will have an understanding of:
 
 ### index.css
 
-1) 
+1) Importing font from Google Fonts (on the top of the css file):
+    `@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");`
+
+2) You can open the CSS file in this repository since we only use one universal css file.
+
+# question.js
+
+1) Create an array of the question objects.
+    - The attributes of the object are:
+        - Question number
+        - Questions
+        - Options
+        - Answers
+
+    - Example of the object below: 
+    ```
+    {
+    numb: 1,
+    question: "What does HTML stand for?",
+    answer: "Hyper Text Markup Language",
+    options: [
+      "Hyper Text Preprocessor",
+      "Hyper Text Markup Language",
+      "Hyper Text Multiple Language",
+      "Hyper Tool Multi Language",
+        ],
+     },
+    ```
