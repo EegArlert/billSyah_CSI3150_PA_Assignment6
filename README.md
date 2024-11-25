@@ -90,7 +90,9 @@ After implementing this project, you will have an understanding of:
 
 ### A More Detail Overview of The Codebase Contained In Each File
 
+
 ### index.html
+
 
 1) The html heading. Below is the heading format and process of linking the css, Font Awesome, and all of the js file
 
@@ -118,9 +120,11 @@ After implementing this project, you will have an understanding of:
 2) The html body. The body of this file is being used to create the components of dynamic user interactions. 
 
     - The Quiz Start Button: 
+
     ` <div class="start_btn"><button>Start Quiz</button></div>`
 
     - The Instruction box wrapper:
+
     ```
     <div class="info_box">
         <div class="info-title"><span>Some Rules of this Quiz</span></div>
@@ -139,6 +143,7 @@ After implementing this project, you will have an understanding of:
     ```
 
     - The Quiz Box (Where the question object is being displayed):
+
     ```
     <div class="quiz_box">
         <header>
@@ -160,6 +165,7 @@ After implementing this project, you will have an understanding of:
     ```
 
     - The Footer 
+
     ```
     <footer>
             <div class="total_que">
@@ -170,6 +176,7 @@ After implementing this project, you will have an understanding of:
     ```
 
     - The Result Box
+
     ```
     <div class="result_box">
         <div class="icon">
