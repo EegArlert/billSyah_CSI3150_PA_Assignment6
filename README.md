@@ -94,7 +94,7 @@ After implementing this project, you will have an understanding of:
 
 1) The HTML heading. Below is the heading format of index.html file as well as linking the css, Font Awesome, and all of the js file
 
-    - ```
+    ```
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -114,7 +114,7 @@ After implementing this project, you will have an understanding of:
         <script src="js/quizApp.js" defer></script>
     </head>
     ```
-    
+
 
 
     
